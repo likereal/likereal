@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guruprasad 
 - 👀 I’m interested in AI(ML)
-- 🌱 I’m currently learning to sleep 8 hours
+- 🌱 I’m currently learning to sleep for 8 hours
 - 📫 How to reach me - guruprasad.2k0@gmail.com
 
 <!---
