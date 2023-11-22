@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guruprasad N</h1>
 <h3 align="center">A passionate Data Engineer with a keen interest and enthusiasm for the field of Data Science overall.</h3>
 
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+
 - 🔭 I’m currently working as a **Snowflake Developer**
 
 - 🌱 I’m currently learning **To sleep 8 hours a day**
