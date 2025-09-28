@@ -3,11 +3,11 @@
 
 <p align='center'><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"></p>
 
-- 🔭 I’m currently working as a **Snowflake Developer**
+- 🔭 I’m currently working as a **Data Engineer**
 
 - 🌱 I’m currently learning **To sleep 8 hours a day**
 
-- 💬 Ask me about **Data Science(AIML)**
+- 💬 Ask me about **Data Engineering or Data Science(AIML) in General**
 
 - 📫 How to reach me **guruprasad21wk@gmail.com**
 
